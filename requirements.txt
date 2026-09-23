@@ -1,0 +1,6 @@
+mesa>=3.0
+numpy
+pandas
+matplotlib
+networkx
+scipy
